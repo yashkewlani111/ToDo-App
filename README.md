@@ -19,4 +19,4 @@ npm run build
 npm run deploy
 
 ## The published To-do App:
-https://abarna1908.github.io/To-Do-App-in-React/
+https://yashkewlani111.github.io/ToDo-App/
